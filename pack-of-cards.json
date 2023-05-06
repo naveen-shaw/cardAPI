@@ -1,0 +1,210 @@
+[
+  {
+    "suit": "SPADE",
+    "rank": "JACK"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "ACE"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "QUEEN"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "JACK"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "FOUR"
+  },
+  {
+    "suit": "HEART",
+    "rank": "QUEEN"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "FOUR"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "KING"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "TWO"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "SIX"
+  },
+  {
+    "suit": "HEART",
+    "rank": "TEN"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "THREE"
+  },
+  {
+    "suit": "HEART",
+    "rank": "FOUR"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "FIVE"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "TEN"
+  },
+  {
+    "suit": "HEART",
+    "rank": "SEVEN"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "SEVEN"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "TWO"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "ACE"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "EIGHT"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "FIVE"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "NINE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "SIX"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "TEN"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "KING"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "NINE"
+  },
+  {
+    "suit": "HEART",
+    "rank": "NINE"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "THREE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "QUEEN"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "TWO"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "KING"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "ACE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "FIVE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "NINE"
+  },
+  {
+    "suit": "HEART",
+    "rank": "THREE"
+  },
+  {
+    "suit": "HEART",
+    "rank": "FIVE"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "THREE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "EIGHT"
+  },
+  {
+    "suit": "HEART",
+    "rank": "KING"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "SEVEN"
+  },
+  {
+    "suit": "HEART",
+    "rank": "EIGHT"
+  },
+  {
+    "suit": "SPADE",
+    "rank": "SIX"
+  },
+  {
+    "suit": "HEART",
+    "rank": "ACE"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "SEVEN"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "JACK"
+  },
+  {
+    "suit": "HEART",
+    "rank": "JACK"
+  },
+  {
+    "suit": "HEART",
+    "rank": "TWO"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "QUEEN"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "TEN"
+  },
+  {
+    "suit": "CLUB",
+    "rank": "FOUR"
+  },
+  {
+    "suit": "DIAMOND",
+    "rank": "EIGHT"
+  },
+  {
+    "suit": "HEART",
+    "rank": "SIX"
+  }
+]
